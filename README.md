@@ -2,6 +2,8 @@ ClockPicker
 ===========
 Code derived from TB_CircularSlider (see below) which creates an analog clock time-of-day picker control.
 
+![A preview of this control](https://github.com/tginsandiego/ClockPicker/blob/master/ClockPickerSnapshot.png)
+
 
 
 TB_CircularSlider
